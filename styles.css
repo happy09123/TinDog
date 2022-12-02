@@ -1,0 +1,160 @@
+#title {
+    background-color: #9fe6e7;
+    color: #fff;
+    padding: 3% 10% 0%;
+    overflow: hidden;
+}
+
+.main-navbar {
+    margin: 0 -10px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 3.5rem;
+    margin: 20px 0;
+}
+
+p {
+    color: #808080;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 35px;
+}
+
+#iphone {
+    width: 60%;
+    transform: rotate(25deg);
+    margin: 0 150px -210px -20px;
+}
+
+.download-button {
+    margin: 10px 10px 0 0;
+}
+
+.nav-link {
+    margin: 0 20px;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.features-section {
+    text-align: center;
+    margin: 170px 0 250px;
+}
+
+.feature-icon {
+    font-size: 40px;
+    color: #87e4e7;
+    margin: 50px 0 10px;
+}
+
+.feature-icon:hover {
+    color: #35f5ff;
+}
+
+.features-section h3 {
+    font-size: 1.5rem;
+    font-weight: 550;
+}
+
+.features-section p {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.main-carousel {
+    background-color: #87e4e7;
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+}
+
+.main-carousel h2 {
+    font-weight: 600;
+    width: 70%;
+    margin: 0 auto 20px;
+    font-size: 35px;
+}
+
+.circle-img {
+    width: 150px;
+    margin: 1%;
+}
+
+.placeholder-logos {
+    text-align: center;
+    background-color: #87e4e7;
+    padding: 30px;
+    margin: 0 0 60px;
+}
+
+.company-logo {
+    margin: 0 30px;
+    width: 15%;
+}
+
+.main-prices-div {
+    text-align: center;
+    margin: 40px;
+}
+
+.main-prices-div h2 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.main-prices-div p {
+    font-size: 15px;
+    margin: 0 0 15px;
+}
+
+.prices-small-container, .prices-big-container {
+    border: solid 1px #585858;
+    padding: 20px;
+    margin: 10px auto;
+    width: 350px;
+    border-radius: 5px;
+}
+
+.prices-title {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0 0 10px;
+}
+
+#cta {
+    background-color: #9fe6e7;
+    color: #fff;
+    padding: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#cta h3 {
+    font-size: 60px;
+    font-weight: 900;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.cta-download-button {
+    margin: 30px 15px;
+}
+
+#footer {
+    text-align: center;
+    padding: 150px;
+}
+
+.footer-icon {
+    font-size: 20px;
+    color: #87e4e7;
+    margin: 50px 5px 20px;
+}
+
+.footer-icon:hover {
+    color: #35f5ff;
+}
